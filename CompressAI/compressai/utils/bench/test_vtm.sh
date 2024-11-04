@@ -1,0 +1,8 @@
+python /data/chenminghui/ELIC-rgbd/InvCompress/codes/compressai/utils/bench/VTM_test.py vtm /data/chenminghui/ELIC-rgbd/dataset/mfnet-seg/test_format/color -j 4 -q 40 --modal RGB
+python /data/chenminghui/ELIC-rgbd/InvCompress/codes/compressai/utils/bench/VTM_test.py vtm /data/chenminghui/ELIC-rgbd/dataset/mfnet-seg/test_format/color -j 4 -q 38 --modal RGB
+python /data/chenminghui/ELIC-rgbd/InvCompress/codes/compressai/utils/bench/VTM_test.py vtm /data/chenminghui/ELIC-rgbd/dataset/mfnet-seg/test_format/color -j 4 -q 37 --modal RGB
+python /data/chenminghui/ELIC-rgbd/InvCompress/codes/compressai/utils/bench/VTM_test.py vtm /data/chenminghui/ELIC-rgbd/dataset/mfnet-seg/test_format/color -j 4 -q 35 --modal RGB
+python /data/chenminghui/ELIC-rgbd/InvCompress/codes/compressai/utils/bench/VTM_test.py vtm /data/chenminghui/ELIC-rgbd/dataset/mfnet-seg/test_format/color -j 4 -q 32 --modal RGB
+python /data/chenminghui/ELIC-rgbd/InvCompress/codes/compressai/utils/bench/VTM_test.py vtm /data/chenminghui/ELIC-rgbd/dataset/mfnet-seg/test_format/color -j 4 -q 28 --modal RGB
+python /data/chenminghui/ELIC-rgbd/InvCompress/codes/compressai/utils/bench/VTM_test.py vtm /data/chenminghui/ELIC-rgbd/dataset/mfnet-seg/test_format/color -j 4 -q 26 --modal RGB
+python /data/chenminghui/ELIC-rgbd/InvCompress/codes/compressai/utils/bench/VTM_test.py vtm /data/chenminghui/ELIC-rgbd/dataset/mfnet-seg/test_format/color -j 4 -q 24 --modal RGB

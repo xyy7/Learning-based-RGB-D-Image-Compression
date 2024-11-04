@@ -1,0 +1,4 @@
+* codecs.py is the original provided by compressai.
+* VTM_codecs.py is the modified class.
+* VTM_test.py is the main entrance.
+* 注意确定输入和输出文件是RGB，还是YUV。
