@@ -25,21 +25,21 @@ Fig.2 The rate-distortion performance comparison in terms of PSNR and mIoU on th
 
 ## Requirements and dependencies
 
-* 创建虚拟环境python3.8：
+* Create a virtual environment：
 
   * ```
     conda create -n TOMM python=3.8
     conda activate TOMM
     ```
 
-* 安装compressai：
+* Install compressai：
 
   * ```
     cd CompressAI
     pip install -U pip && pip install -e .
     ```
 
-* 下载torch和torchvision：
+* Install torch and torchvision：
 
   * ```
     wget https://download.pytorch.org/whl/cu101/torch-1.8.1%2Bcu101-cp38-cp38-linux_x86_64.whl
@@ -50,7 +50,7 @@ Fig.2 The rate-distortion performance comparison in terms of PSNR and mIoU on th
     rm torchvision-0.9.1%2Bcu101-cp38-cp38-linux_x86_64.whl
     ```
 
-* 安装其他相关库：
+* Install the other libs：
 
   * ```
     pip install -r requirements.txt
@@ -85,7 +85,7 @@ We also sincerely recommend some other excellent works related to us.
 
 ## Citation
 
-If you find the code useful for your research, please consider citing our paper.
+Please consider citing our papers if you find the code useful for your research.
 
 **ICIP2022**
 
