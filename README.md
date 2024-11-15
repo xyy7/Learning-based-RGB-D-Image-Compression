@@ -1,6 +1,6 @@
 # Bidirectional RGBD Image Compression [TOMM 2024]
 
-* This is the official PyTorch implementation of the paper RGB-D Data Compression via Bi-Directional Cross-Modal Prior Transfer and Enhanced Entropy Modeling (TOMM 2024).
+* This is the official PyTorch implementation of the paper [RGB-D Data Compression via Bi-Directional Cross-Modal Prior Transfer and Enhanced Entropy Modeling (TOMM 2024)](https://dl.acm.org/doi/abs/10.1145/3702997).
 
 ## Architectures
 
