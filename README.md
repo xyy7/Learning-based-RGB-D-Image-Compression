@@ -105,7 +105,17 @@ Please consider citing our papers if you find the code useful for your research.
 **TOMM2024**
 
 ```
-@article{
-	xxxx
+@article{10.1145/3702997,
+author = {Xu, Yuyu and Zhang, Pingping and Chen, Minghui and Zhang, Qiudan and Wu, Wenhui and Zhang, Yun and Wang, Xu},
+title = {RGB-D Data Compression via Bi-Directional Cross-Modal Prior Transfer and Enhanced Entropy Modeling},
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1551-6857},
+url = {https://doi.org/10.1145/3702997},
+doi = {10.1145/3702997},
+journal = {ACM Trans. Multimedia Comput. Commun. Appl.},
+month = nov,
+keywords = {RGB-D, Cross-modal, Image Compression, Enhanced Entropy Model}
 }
 ```
